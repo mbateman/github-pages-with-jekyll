@@ -1,13 +1,16 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+theme: minima
+title: Coumputational  Linguist
+author: Michael Bateman
+email: michael.bateman.com@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Blog site for NLP and Data Science
 
-# social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+# social linksWrite an awesome description for your new site here. You can edit this
+7
+  line in _config.yml. It will appear in your document head meta (for
+8
+  Google search results) and in your feed.xml site description.
+twitter_username: m_r_bateman
+github_username:  mbateman
 
 show_excerpts: true # set to false to remove excerpts on the homepage
